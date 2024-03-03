@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/glyphicons-halflings-regular.eot",
+      "sha1": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3"
+    },
+    {
+      "path": "assets/fonts/glyphicons-halflings-regular.svg",
+      "sha1": "de51a8494180a6db074af2dee2383f0a363c5b08"
+    },
+    {
+      "path": "assets/fonts/glyphicons-halflings-regular.ttf",
+      "sha1": "44bc1850f570972267b169ae18f1cb06b611ffa2"
+    },
+    {
+      "path": "assets/fonts/glyphicons-halflings-regular.woff",
+      "sha1": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f"
+    },
+    {
+      "path": "assets/fonts/glyphicons-halflings-regular.woff2",
+      "sha1": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
+    },
+    {
+      "path": "assets/fonts/Sukhumvit Set.ttf",
+      "sha1": "f78e484f8ff8551df0c0213db91f75da99b0495d"
+    },
+    {
+      "path": "assets/fonts/SukhumvitSet-Bold.ttf",
+      "sha1": "755980dbb941c201d76532faa2e25ee3e2712ea6"
+    },
+    {
+      "path": "assets/fonts/SukhumvitSet-Light.ttf",
+      "sha1": "14f8f61866604c6d584172575ba4972907b697e4"
+    },
+    {
+      "path": "assets/fonts/SukhumvitSet-Medium.ttf",
+      "sha1": "f78e484f8ff8551df0c0213db91f75da99b0495d"
+    },
+    {
+      "path": "assets/fonts/SukhumvitSet-SemiBold.ttf",
+      "sha1": "1b9ae57c268cf6ad368a444209f75a7ca18fba1f"
+    },
+    {
+      "path": "assets/fonts/SukhumvitSet-Text.ttf",
+      "sha1": "e4784279a80982482481713bef29f73e8b515291"
+    },
+    {
+      "path": "assets/fonts/SukhumvitSet-Thin.ttf",
+      "sha1": "a66bc99b9c35470decff07baa4698a3c0d36420d"
+    }
+  ]
+}
